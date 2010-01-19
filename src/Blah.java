@@ -1,6 +1,7 @@
 
 public class Blah.java {
 	// 1
+		Branch
 	// 2
 	// 3
 	// 4
